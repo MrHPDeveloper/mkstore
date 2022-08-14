@@ -1,0 +1,27 @@
+{
+  "name": "discord-test",
+  "version": "1.0.0",
+  "description": "hamid hungry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "node": "^16.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/di3colearn/welcomer.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/di3colearn/welcomer/issues"
+  },
+  "homepage": "https://github.com/di3colearn/welcomer#readme"
+}
