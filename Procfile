@@ -1,1 +1,1 @@
-Worker: node welcomer/index.js
+Worker: node .
